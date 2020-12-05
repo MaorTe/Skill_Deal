@@ -1,4 +1,4 @@
-# Skill_Deal
+# Skill Deal
 
 ### Introduction
 The purpose of the app is to gain new skills by meeting people who are in our area and without the need for currency or money. <br>
