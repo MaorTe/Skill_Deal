@@ -18,6 +18,6 @@ Firebase
 JAVA , Android.
 
 ### GIT
-https://github.com/maorte/Cost_Manager_Web_ServerSide
+https://github.com/maorte/Skill_Deal_Social_Mobile_App
 
 
