@@ -15,7 +15,7 @@ Chat with friends , camera , GPS and various social related options <br>
 Firebase
 
 ### Technology 
-JAVA , XML and various android related options.
+JAVA , Android.
 
 ### GIT
 https://github.com/maorte/Cost_Manager_Web_ServerSide
