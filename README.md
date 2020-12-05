@@ -8,14 +8,14 @@ they will set to meet on a specific date and time and exchange skills. <br>
 -The target audience of the app is for people who prefer to study with someone else and also while getting to know them!  <br>
 the app contains: <br>
 
-Chat with friends , camera , GPS and various social related options!. <br>
+Chat with friends , camera , GPS and various social related options <br>
 
 ### Database 
 
 Firebase
 
 ### Technology 
-JAVA , XML and various android related options
+JAVA , XML and various android related options.
 
 ### GIT
 https://github.com/maorte/Cost_Manager_Web_ServerSide
