@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Skilldeal</string>
+    <string name="places_api_key">/*api key*/</string>
+    <string name="notifications">Notifications</string>
+    <string name="all_notifications">Turn on or turn off all notification</string>
+    <string name="new_notifications">All Notifications</string>
+    <string name="user_notifications">User Notifications</string>
+    <string name="new_notifications_summary">Turn on or turn off new notifications</string>
+    <string name="user_notifications_summary">Turn on or turn off user notifications</string>
+    <string name="search_settings">Search Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="dropdown_entries">
+        <item>10 Seconds **</item>
+        <item>Once an hour</item>
+        <item>Twice a day</item>
+        <item>Once a day</item>
+    </string-array>
+
+    <string-array name="dropdown_values">
+        <item>10</item>
+        <item>3600</item>
+        <item>43200</item>
+        <item>86400</item>
+    </string-array>
+    <string name="confirm_btn">Confirm</string>
+    <string name="online_tv">Online</string>
+    <string name="name_tv">Name</string>
+    <string name="enter_msg_et">Enter Message...</string>
+    <string name="genre_name_et">Genre name</string>
+    <string name="chat_list_tv">Chat List</string>
+    <string name="choose_location_btn">Choose Location</string>
+    <string name="please_log_in_tv">Please Log in</string>
+    <string name="full_name_tv">Full name</string>
+    <string name="age_tv">Age</string>
+    <string name="email_tv">Email</string>
+    <string name="max_range_tv">Max Range</string>
+    <string name="edit_location_btn">Edit</string>
+    <string name="location_result_tv">Location Result</string>
+    <string name="edit_skills_btn">Edit Skills</string>
+    <string name="schedule_time_tv">Schedule Time:</string>
+    <string name="continue_btn">Continue</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="first_name_tv">First name</string>
+    <string name="last_name_tv">Last name</string>
+    <string name="password_tv">Password</string>
+    <string name="next_btn">Next</string>
+    <string name="whats_your_age_tv">What\'s your age?</string>
+    <string name="how_far_range_tv">How far would you like to search?</string>
+    <string name="km_tv">km</string>
+    <string name="preferred_meeting_location_tv">Preferred meeting location</string>
+    <string name="havnt_chosen_location_tv">Haven\'t chosen a location</string>
+    <string name="my_skills_tv">My Skills</string>
+    <string name="save_btn">Save</string>
+    <string name="back_btn">Back</string>
+    <string name="oops_error_tv">Oops! No users are currently teaching this skill!</string>
+    <string name="seen_tv">Seen</string>
+    <string name="delivered_tv">Delivered</string>
+    <string name="typing_tv">Typing...</string>
+    <string name="last_seen_at_tv">"Last seen at: "</string>
+    <string name="empty_msg_et">Message is empty...</string>
+    <string name="failed_to_update_ui_toast">Failed to update ui</string>
+    <string name="confirmation_is_null_toast">Confirmation is null</string>
+    <string name="failed_to_send_notification_toast">Failed to send notification</string>
+    <string name="new_message_title">New Message from</string>
+    <string name="cannot_open_chat_not_logged_in_toast">Cannot open chat - not logged in</string>
+    <string name="loading_confirms_pd">Loading confirmations, please wait...</string>
+    <string name="loading_genres_pd">Loading genres, please wait...</string>
+    <string name="signup_successful_sb">Signup successful</string>
+    <string name="signup_failed_sb">Sign up failed</string>
+    <string name="login_tv">Login</string>
+    <string name="login_successful_sb">Login successful</string>
+    <string name="login_failed_sb">Login Failed</string>
+    <string name="logged_out_sb">Logged out successful</string>
+    <string name="welcome_sb">Welcome</string>
+    <string name="is_now_connected_sb">" is now connected"</string>
+    <string name="unable_to_get_last_location_toast">Unable to get last location</string>
+    <string name="no_location_chosen_toast">No location chosen</string>
+    <string name="screen_center_toast">"Screen center: "</string>
+    <string name="on_toast">On</string>
+    <string name="off_toast">Off</string>
+    <string name="no_permission_for_camera_toast">No permission for camera</string>
+    <string name="the_map_cannot_start_sb">The map cannot start without permission</string>
+    <string name="cannot_take_picture_sb">Cannot take picture without permission</string>
+    <string name="updated_successfully_toast">Updated Successfully</string>
+    <string name="profile_image_failed_toast">Profile image failed</string>
+    <string name="skill_list_is_empty_toast">Skill list is empty</string>
+    <string name="please_enter_time_and_date_toast">Please enter time and date</string>
+    <string name="no_skill_found_toast">No skill found</string>
+    <string name="search_here_sv">Search here</string>
+    <string name="loading_users_please_wait_pd">Loading users, please wait...</string>
+    <string name="user_is_null_toast">User not exist</string>
+    <string name="something_else_is_wrong_toast">Something else is wrong</string>
+    <string name="failed_to_transfer_subgenre_toast">Failed to transfer subgenre</string>
+    <string name="current_user_is_null_toast">Current user is not exist</string>
+    <string name="added_details_toast">Added details!</string>
+    <string name="finish_btn">Finish</string>
+    <string name="could_not_open_genre_toast">Couldn\'t open genre</string>
+    <string name="choose_age_range_ptv">Choose age range</string>
+    <string name="age_range_ptv">Age range</string>
+    <string name="choose_search_range_ptv">Choose Search Range</string>
+    <string name="search_range_ptv">Search Range</string>
+    <string name="repeat_mode">Repeat mode</string>
+    <string name="choose_repeating_time_ptv">Choose repeating time for search mode</string>
+    <string name="chat_bnv">Chat</string>
+    <string name="favorites_bnv">Favorites</string>
+    <string name="home_bnv">Home</string>
+    <string name="sign_up_dnv">Sign up</string>
+    <string name="users_dnv">Users</string>
+    <string name="search_dnv">Search</string>
+    <string name="profile_dnv">Profile</string>
+    <string name="confirmations_dnv">Confirmations</string>
+    <string name="messages_dnv">Messages</string>
+    <string name="settings_dnv">Settings</string>
+    <string name="log_out_dnv">Log out</string>
+    <string name="prof_edit_txt_btn">Edit Skills</string>
+    <string name="prof_my_skills_txt">My skills:</string>
+    <string name="prof_learn_txt">Skills I want to learn:</string>
+    <string name="prof_preferred_loc">My preferred meeting location</string>
+    <string name="prof_max_radius_txt">My maximum search radius:</string>
+    <string name="signup_inst_txt">Please fill in your details below so you can start searching your area for people to swap skills with!</string>
+    <string name="signup_learn_txt">Skills I want to learn</string>
+    <string name="chat_no_users_txt">Schedule new skill swaps to add people to your chat list!</string>
+    <string name="schedule_btn_txt">Schedule</string>
+    <string name="click_for_det_txt">Click for more details</string>
+</resources>
