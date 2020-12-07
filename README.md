@@ -20,7 +20,7 @@ JAVA , Android.
 ### GIT
 https://github.com/maorte/Skill_Deal_Social_Mobile_App
 
-<img src="images/tutorial.PNG"  width="300">  <br>
+<img src="images/tutorial.png"  width="300">  <br>
 <img src="images/open.PNG"  width="300">  <br>
 <img src="images/sign.PNG"  width="300">  <br>
 <img src="images/gps.PNG"  width="300">  <br>
